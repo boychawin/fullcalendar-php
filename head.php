@@ -9,11 +9,11 @@
 <!-- boychawin.com -->
 <!-- <link href="https://boychawin.com/_next/static/css/d14dc5e59bd60eaeb5ad.css" rel='stylesheet'> -->
 <!-- jQuery -->
-<script src="./lib//jquery//dist//jquery.min.js"></script>
+<script src="./lib//jquery/dist//jquery.min.js"></script>
 <!-- Custom Theme JavaScript -->
-<script src='./lib//moment.min.js'></script>
+<script src='./lib/moment.min.js'></script>
 <script src='./fullcalendar/fullcalendar.min.js'></script>
-<script src='./lib/lang//th.js'></script>
+<script src='./lib/lang/th.js'></script>
 <script src="./lib/jquery.fancybox.pack.js"></script>
 
 
